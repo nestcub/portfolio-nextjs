@@ -1,4 +1,4 @@
-import Link from 'next/link'
+//import Link from 'next/link' #use this when theres a blogpost Link
 
 const projects = [
   {
