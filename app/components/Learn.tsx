@@ -2,14 +2,9 @@ import Link from 'next/link'
 
 const articles = [
   {
-    title: 'Introduction to Data Structures',
-    description: 'Learn the fundamentals of data structures and their importance in computer science.',
-    link: '/learn/data-structures-intro',
-  },
-  {
-    title: 'Algorithms: Sorting and Searching',
-    description: 'Explore common sorting and searching algorithms with practical examples.',
-    link: '/learn/algorithms-sorting-searching',
+    title: 'Coming soon',
+    //description: 'Learn the fundamentals of data structures and their importance in computer science.',
+    //link: '/learn/data-structures-intro',
   },
   // Add more articles as needed
 ]

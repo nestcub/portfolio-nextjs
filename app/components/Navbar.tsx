@@ -28,7 +28,7 @@ export default function Navbar() {
 
   const handleResumeClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault()
-    const resumeUrl = '/neston-cabral-resume.pdf'
+    const resumeUrl = '/resume-jan-2025.pdf'
     window.open(resumeUrl, '_blank')
   }
 
